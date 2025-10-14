@@ -15,7 +15,7 @@
 | 2025-11-07 | Marcela?         |                |        |
 | 2025-11-14 | Adriana          | Candidacy      |        |
 | 2025-11-21 | _open_           |                |        |
-| 2025-11-28 | nope             | Hoiday         |        |
+| 2025-11-28 | nope             | Holiday         |        |
 | 2025-12-05 | _open_           |                |        |
 | 2025-12-12 | _open_           |                |        |
 
