@@ -11,7 +11,7 @@
 | 2025-10-10 | Adriana          | Candidacy!     |        |
 | 2025-10-17 | Gaelle           | Predictions    |        |
 | 2025-10-24 | Maia             |                |        |
-| 2025-10-31 | Jose??           |                |        |
+| 2025-10-31 | Jose             | GWR            |        |
 | 2025-11-07 | Marcela?         |                |        |
 | 2025-11-14 | Adriana          | Candidacy      |        |
 | 2025-11-21 | _open_           |                |        |
