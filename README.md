@@ -3,7 +3,7 @@
 **How to sign up:**  
 1. Click the ✏️ “Edit this file” button (top right).  
 2. Add your name and topic next to an open date.  
-3. Scroll down and “Commit changes” (no PR required if you have write access).
+3. Scroll down and “Commit changes”.
 
 | Date       | Presenter        | Topic / Paper | Notes |
 |------------|------------------|----------------|--------|
