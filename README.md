@@ -8,7 +8,7 @@
 | Date       | Presenter        | Topic / Paper | Notes |
 |------------|------------------|----------------|--------|
 | 2025-10-3  | DM Parker        | Welcome back!  |        |
-| 2025-10-10 | Adriana          | Candidacy!     |        |
+| 2025-10-10 | Adriana          | Candidacy practice!     |        |
 | 2025-10-17 | Gaelle           | Predictions    |        |
 | 2025-10-24 |                  |                |        |
 | 2025-10-31 | Jose             | GWR            |        |
