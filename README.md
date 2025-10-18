@@ -14,7 +14,7 @@
 | 2025-10-31 | Jose             | GWR            |        |
 | 2025-11-07 | Adriana  |    ASTMH practice            |        |
 | 2025-11-14 | Adriana (online)        | Candidacy  practice    |        |
-| 2025-11-21 | Maia/Vminin lab? |                | joint lab meeting!?       |
+| 2025-11-21 | Maia/Vminin lab? |                | joint lab meeting!       |
 | 2025-11-28 | nope             | Holiday         |        |
 | 2025-12-05 | _open_           |                |        |
 
