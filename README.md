@@ -7,7 +7,7 @@
 
 | Date       | Presenter        | Topic / Paper | Notes |
 |------------|------------------|----------------|--------|
-| 2025-10-3  | DM Parker        | Welcome back!  |        |
+| 2025-10-3  | DM Parker        | Welcome back!  |https://www.statnews.com/2025/08/18/rfk-jr-public-health-threats-william-foege-smallpox/        |
 | 2025-10-10 | Adriana          | Candidacy practice!     |        |
 | 2025-10-17 | Gaelle           | Predictions    |        |
 | 2025-10-24 | Marcela             |  Aim 2 brainstorming              |        |
