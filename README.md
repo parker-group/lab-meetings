@@ -28,5 +28,5 @@
 
 ---
 
-### Lab approved lunch spots
+### Lab-approved lunch spots
 - Abyssinia Restaurant (Ethiopian)
