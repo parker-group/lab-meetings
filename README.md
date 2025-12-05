@@ -25,3 +25,8 @@
 - Meetings: Fridays 11am – noon (in lab - and The Eye).  
 - Presentations: 30-40 min + 10 min discussion.  
 - Feel free to switch with one another - but please help me keep this going!
+
+---
+
+### Lab approved lunch spots
+- Abyssinia Restaurant (Ethiopian)
