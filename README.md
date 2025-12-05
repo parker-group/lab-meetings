@@ -30,3 +30,4 @@
 
 ### Lab-approved lunch spots
 - Abyssinia Restaurant (Ethiopian)
+- Southern Spice (Indian)
