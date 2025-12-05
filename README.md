@@ -31,3 +31,4 @@
 ### Lab-approved lunch spots
 - Abyssinia Restaurant (Ethiopian)
 - Southern Spice (Indian)
+- Bear Flag (poke)
