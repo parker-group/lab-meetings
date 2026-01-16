@@ -22,7 +22,7 @@
 | 2025-01-23 | _open_           |                |        |
 | 2025-01-30 | _open_           |                |        |
 | 2025-02-06 | Maia           |  Don't know yet, but it'll be cool           |        |
-| 2025-02-13 | _open_           |                |        |
+| 2025-02-13 | Jose           | TBD            |        |
 | 2025-02-20 | Marcela           |                |        |
 | 2025-02-27 | ??Bipin Adhikari??           |                |        |
 | 2025-03-06 | _open_           |                |        |
