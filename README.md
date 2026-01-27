@@ -17,17 +17,17 @@
 | 2025-11-21 | Maia/Vminin lab? |                | joint lab meeting!       |
 | 2025-11-28 | nope             | Holiday         |        |
 | 2025-12-05 | _open_           |                |        |
-| 2025-01-09 | Daniel           |                |        |
-| 2025-01-16 | No meeting           |                |        |
-| 2025-01-23 | _open_           |                |        |
-| 2025-01-30 | _open_           |                |        |
-| 2025-02-06 | Maia           |  Don't know yet, but it'll be cool           |        |
-| 2025-02-13 | Jose           | TBD            |        |
-| 2025-02-20 | Marcela           |                |        |
-| 2025-02-27 | ??Bipin Adhikari??           |                |        |
-| 2025-03-06 | _open_           |                |        |
-| 2025-03-13 | _open_           |                |        |
-| 2025-03-20 | _open_           |                |        |
+| 2026-01-09 | Daniel           |                |        |
+| 2026-01-16 | No meeting           |                |        |
+| 2026-01-23 | _open_           |                |        |
+| 2026-01-30 | _open_           |                |        |
+| 2026-02-06 | Maia           |  Don't know yet, but it'll be cool           |        |
+| 2026-02-13 | Jose           | TBD            |        |
+| 2026-02-20 | Marcela           |                |        |
+| 2026-02-27 | ??Bipin Adhikari??           |                |        |
+| 2026-03-06 | Gaëlle           |                |        |
+| 2026-03-13 | _open_           |                |        |
+| 2026-03-20 | _open_           |                |        |
 
 
 ---
