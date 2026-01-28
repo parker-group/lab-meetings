@@ -20,13 +20,13 @@
 | 2026-01-09 | Daniel           |                |        |
 | 2026-01-16 | No meeting           |                |        |
 | 2026-01-23 | _open_           |                |        |
-| 2026-01-30 | _open_           |                |        |
-| 2026-02-06 | Maia           |  Don't know yet, but it'll be cool           |        |
+| 2026-01-30 | _open_           |                | Maia to miss       |
+| 2026-02-06 | Daniel at faculty retreat   |            |        |
 | 2026-02-13 | Jose           | TBD            |        |
 | 2026-02-20 | Marcela           |                |        |
 | 2026-02-27 | ??Bipin Adhikari??           |                |        |
 | 2026-03-06 | Gaëlle           |                |        |
-| 2026-03-13 | _open_           |                |        |
+| 2026-03-13 | Maia           |                |        |
 | 2026-03-20 | _open_           |                |        |
 
 
