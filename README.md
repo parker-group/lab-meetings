@@ -20,7 +20,7 @@
 | 2026-01-09 | Daniel           |                |        |
 | 2026-01-16 | No meeting           |                |        |
 | 2026-01-23 | _open_           |                |        |
-| 2026-01-30 | _open_           |                | Maia to miss       |
+| 2026-01-30 | Daniel present prelim work           |                | Maia to miss       |
 | 2026-02-06 | Daniel at faculty retreat   |            |        |
 | 2026-02-13 | Jose           | Climate's impace on Lyme  | https://www.sciencedirect.com/science/article/pii/S2352396425001458?via%3Dihub   |
 | 2026-02-20 | Marcela           |                |        |
