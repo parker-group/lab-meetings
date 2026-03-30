@@ -29,7 +29,7 @@
 | 2026-03-13 | Maia           |                |        |
 | 2026-03-20 | nope - finals week           |                |        |
 | 2026-03-27 | Spring Break           |                |        |
-| 2026-04-03 | open           |                |        |
+| 2026-04-03 | no meeting (Daniel treading water) |                |        |
 | 2026-04-10 | ||| 
 | 2026-04-17 | ||| 
 | 2026-04-24 | ||| 
