@@ -24,7 +24,7 @@
 | 2026-02-06 | Daniel at faculty retreat   |            |        |
 | 2026-02-13 | Jose           | Climate's impace on Lyme  | https://www.sciencedirect.com/science/article/pii/S2352396425001458?via%3Dihub   |
 | 2026-02-20 | Marcela           |                |        |
-| 2026-02-27 | ??Bipin Adhikari??           |                |        |
+| 2026-02-27 | Bipin lunch!           |                |        |
 | 2026-03-06 | Gaëlle           |                |        |
 | 2026-03-13 | Maia           |                |        |
 | 2026-03-20 | nope - finals week           |                |        |
