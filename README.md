@@ -30,15 +30,15 @@
 | 2026-03-20 | nope - finals week           |                |        |
 | 2026-03-27 | Spring Break           |                |        |
 | 2026-04-03 | no meeting (Daniel treading water) |                |        |
-| 2026-04-10 | Audrey?| || 
-| 2026-04-17 | Adriana?||| 
+| 2026-04-10 | Audrey| || 
+| 2026-04-17 | ||| 
 | 2026-04-24 | ||| 
 | 2026-05-01 | Maia| Defense practice|| 
-| 2026-05-08 | ||| 
+| 2026-05-08 | Adriana ||| 
 | 2026-05-15 | Gaëlle | Defense practice|| 
 | 2026-05-22 | ||| 
 | 2026-05-29 | ||| 
-| 2026-06-05 | ||| 
+| 2026-06-05 | Moones ||| 
 
 ---
 
