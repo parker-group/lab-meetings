@@ -37,7 +37,7 @@
 | 2026-05-08 | Adriana ||| 
 | 2026-05-15 | Gaëlle | Defense practice|| 
 | 2026-05-22 | Marcela ||| 
-| 2026-05-29 | ||| 
+| 2026-05-29 | Jose | Aim 2 Share || 
 | 2026-06-05 | Moones ||| 
 
 ---
