@@ -36,7 +36,7 @@
 | 2026-05-01 | Maia| Defense practice|| 
 | 2026-05-08 | Adriana ||| 
 | 2026-05-15 | Gaëlle | Defense practice|| 
-| 2026-05-22 | ||| 
+| 2026-05-22 | Marcela ||| 
 | 2026-05-29 | ||| 
 | 2026-06-05 | Moones ||| 
 
