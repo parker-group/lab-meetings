@@ -1,4 +1,4 @@
-# 🧪 Parker Lab Meeting Schedule 2025–2026
+# 🧪 Parker Lab Meeting Schedule 2026 - 2027
 
 **How to sign up:**  
 1. Click the ✏️ “Edit this file” button (top right).  
@@ -6,39 +6,22 @@
 3. Scroll down and “Commit changes”.
 
 | Date       | Presenter        | Topic / Paper | Notes |
-|------------|------------------|----------------|--------|
-| 2025-10-3  | DM Parker        | Welcome back!  |https://www.statnews.com/2025/08/18/rfk-jr-public-health-threats-william-foege-smallpox/        |
-| 2025-10-10 | Adriana          | Candidacy practice!     |        |
-| 2025-10-17 | Gaelle           | Predictions    |        |
-| 2025-10-24 | Marcela             |  Aim 2 brainstorming              |        |
-| 2025-10-31 | Jose             | GWR            |        |
-| 2025-11-07 | Adriana  |    ASTMH practice            |        |
-| 2025-11-14 | Adriana (online)        | Candidacy  practice    |        |
-| 2025-11-21 | Maia/Vminin lab? |                | joint lab meeting!       |
-| 2025-11-28 | nope             | Holiday         |        |
-| 2025-12-05 | _open_           |                |        |
-| 2026-01-09 | Daniel           |                |        |
-| 2026-01-16 | No meeting           |                |        |
-| 2026-01-23 | _open_           |                |        |
-| 2026-01-30 | Daniel present prelim work           |                | Maia to miss       |
-| 2026-02-06 | Daniel at faculty retreat   |            |        |
-| 2026-02-13 | Jose           | Climate's impace on Lyme  | https://www.sciencedirect.com/science/article/pii/S2352396425001458?via%3Dihub   |
-| 2026-02-20 | Marcela           |                |        |
-| 2026-02-27 | Bipin lunch!           |                |        |
-| 2026-03-06 | Gaëlle           |                |        |
-| 2026-03-13 | Maia           |                |        |
-| 2026-03-20 | nope - finals week           |                |        |
-| 2026-03-27 | Spring Break           |                |        |
-| 2026-04-03 | no meeting (Daniel treading water) |                |        |
-| 2026-04-10 | Audrey| || 
-| 2026-04-17 | ||| 
-| 2026-04-24 | ||| 
-| 2026-05-01 | Maia| Defense practice|| 
-| 2026-05-08 | Adriana ||| 
-| 2026-05-15 | Gaëlle | Defense practice|| 
-| 2026-05-22 | Marcela ||| 
-| 2026-05-29 | Jose | || 
-| 2026-06-05 | Moones ||| 
+|------------|------------------|---------------|-------|
+| 2026-10-02 |  Marcela                |               |       |
+| 2026-10-09 |  Daniel                |   Parker Group Values V2            |   in person    |
+| 2026-10-16 |                  |               |       |
+| 2026-10-23 |                  |               |       |
+| 2026-10-30 |                  |               |       |
+| 2026-11-06 |                  |               |       |
+| 2026-11-13 |                  |               |       |
+| 2026-11-20 |                  |               |       |
+| 2026-11-27 | No meeting       | Thanksgiving  |       |
+| 2026-12-04 |                  |               | Last week of instruction |
+| 2027-01-08 |                  |               |       |
+| 2027-01-15 |                  |               |       |
+| 2027-01-22 |                  |               |       |
+| 2027-01-29 |                  |               |       |
+| 2027-02-05 |                  |               |       |
 
 ---
 
@@ -53,3 +36,8 @@
 - Abyssinia Restaurant (Ethiopian)
 - Southern Spice (Indian)
 - Bear Flag (poke)
+
+---
+
+### Previous schedules
+- [2025–2026](./archive/2025-2026.md)
