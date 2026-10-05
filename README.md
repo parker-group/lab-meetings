@@ -10,7 +10,7 @@
 | 2026-10-02 |  Marcela                |               |       |
 | 2026-10-09 |  Daniel                |   Parker Group Values V2            |   in person    |
 | 2026-10-16 |                  |               |   likely infectious disease, cross-lab meetup (2pm)    |
-| 2026-10-23 |                  |               |       |
+| 2026-10-23 |  Adriana?                |               |       |
 | 2026-10-30 |  Moones             |               |       |
 | 2026-11-06 |                  |               |       |
 | 2026-11-13 |                  |               |       |
