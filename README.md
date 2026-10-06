@@ -13,7 +13,7 @@
 | 2026-10-23 |  Adriana         | ASTMH poster (1st draft)              |       |
 | 2026-10-30 |  Moones             |               |       |
 | 2026-11-06 |                  |               |       |
-| 2026-11-13 |                  |ASTMH poster (final)               |       |
+| 2026-11-13 | Adriana                 |ASTMH poster (final)               |       |
 | 2026-11-20 |                  |               |       |
 | 2026-11-27 | No meeting       | Thanksgiving  |       |
 | 2026-12-04 |                  |               | Last week of instruction |
