@@ -12,7 +12,7 @@
 | 2026-10-16 |                  |               |   likely infectious disease, cross-lab meetup (2pm)    |
 | 2026-10-23 |  Adriana         | ASTMH poster (1st draft)              |       |
 | 2026-10-30 |  Moones             |               |       |
-| 2026-11-06 |                  |               |       |
+| 2026-11-06 |  Jose       |    Newest Updates on Aim 2   | New fun Graphics! |
 | 2026-11-13 | Adriana                 |ASTMH poster (final)               |       |
 | 2026-11-20 |                  |               |       |
 | 2026-11-27 | No meeting       | Thanksgiving  |       |
