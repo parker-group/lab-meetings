@@ -16,7 +16,7 @@
 | 2026-11-13 | Adriana                 |ASTMH poster (final)               |       |
 | 2026-11-20 |                  |               |       |
 | 2026-11-27 | No meeting       | Thanksgiving  |       |
-| 2026-12-04 |                  |               | Last week of instruction |
+| 2026-12-04 |Adriana          | Fieldwork presentation               | Last week of instruction |
 | 2027-01-08 |                  |               |       |
 | 2027-01-15 |                  |               |       |
 | 2027-01-22 |                  |               |       |
